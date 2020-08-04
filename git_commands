@@ -1,0 +1,17 @@
+mkdir my_project
+ls -l
+cd my_project
+vi file1
+git init
+git remote add origin https:.....
+git config -- list
+git remote -v
+ls -l
+git add file1
+git commit -m "commit updated"
+git config --global user.email "uic...."
+git config --global user.name "19mca8237"
+git commit - m "update"
+git push -u origin master
+    username ...
+    pass ...
